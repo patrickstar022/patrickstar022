@@ -35,10 +35,10 @@ Here are some ideas to get you started:
 👋 Hi, I’m @ParagSenDeka
 
   My Skills:
--  MERN
--  DSA
--  OS & DBMS
--  Networking
+-  Software Engineering
+-  Cybersecurity
+-  System Administration
+-  Programmer Analyst
 -  C++
 
   
