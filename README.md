@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 :telescope: CS graduate and Open Source Contributor.
 
  :seedling: Exploring Software Development and Engineering.
-👋 Hi, I’m @ParagSenDeka
+👋 Hi, I’m Parag
 
   My Skills:
 -  Software Engineering
