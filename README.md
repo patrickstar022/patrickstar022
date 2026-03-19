@@ -35,11 +35,10 @@ Here are some ideas to get you started:
 👋 Hi, I’m Parag
 
   My Skills:
--  Software Engineering
--  Cybersecurity
--  System Administration
--  Programmer Analyst
--  C++
+-  Cloud Security Engineering
+-  SOC Analysis
+-  Software Tester QA
+-  DevOps
 
   
  💞️ You can follow me on LinkedIn
