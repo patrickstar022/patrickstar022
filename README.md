@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 :telescope: CS graduate and Open Source Contributor.
 
  :seedling: Exploring Cloud Security and Engineering.
+
 👋 Hi, I’m Parag
 
   My Skills:
