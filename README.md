@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
  :seedling: Exploring Cloud Security and Engineering.
 
-👋 Hi, I’m Parag
+👋 Hi, I’m a CS Graduate learning cybersecurity.
 
   My Skills:
 -  Cloud Security Engineering
