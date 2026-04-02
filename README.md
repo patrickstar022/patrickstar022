@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 
   My Skills:
 -  Cloud Security Engineering
+-  Software Engineering
 -  SOC Analysis
 -  Software Tester QA
 -  DevOps
