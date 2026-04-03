@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 👋 Hello, World!
 
   My Skills:
--  Cloud Security Engineering
--  Software Engineering
+-  Cloud Security
+-  Python & C++
 -  SOC Analysis
 -  Software Tester QA
--  DevOps
+-  Software Engineering
 
   
  💞️ You can follow me on LinkedIn
