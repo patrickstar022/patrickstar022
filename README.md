@@ -31,16 +31,7 @@ Here are some ideas to get you started:
 
 :telescope: CS graduate and Open Source Contributor.
 
- :seedling: Exploring Cloud Security and Engineering.
-
-👋 Hello, World!
-
-  My Skills:
--  Cloud Security
--  Python & C++
--  SOC Analysis
--  Software Tester QA
--  Software Engineering
+ :seedling: Exploring Software Engineering.
 
   
  💞️ You can follow me on LinkedIn
