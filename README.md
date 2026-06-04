@@ -11,6 +11,8 @@
   </a>
 </div>
 
+## About Me
+I am a CS graduate specialized in Software Engineering. I build systems and improve scalability and optimization, automate server setups and integrate AI into the system.
 :telescope: CS graduate and Open Source Contributor.
 
  :seedling: Exploring Software Engineering.
