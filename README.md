@@ -2,11 +2,11 @@
 
  <div id="header" align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></div>
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=About+Me)](https://git.io/typing-svg)
+## About Me
 I am a CS graduate specialized in Software Engineering. I build systems and improve scalability and optimization, automate server setups and integrate AI into the system.
 I am also an open source contributor.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Skills)](https://git.io/typing-svg)
+## Skills
 - MERN Stack
 - AI Tools & Prompt Engineering
 - Cloud Fundamentals
