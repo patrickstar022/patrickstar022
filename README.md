@@ -4,8 +4,9 @@
  
 ## About Me
 I am a CS graduate specialized in Software Engineering. I build systems and improve scalability and optimization, automate server setups and integrate AI into the system.
+I am also an open source contributor.
 
-:telescope: CS graduate and Open Source Contributor.
+:telescope: CS graduate and 
 # Skills
 - MERN Stack
 - AI Tools & Prompt Engineering
