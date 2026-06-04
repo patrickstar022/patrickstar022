@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/parag-deka-08b24a231">
@@ -13,9 +11,11 @@
 
 ## About Me
 I am a CS graduate specialized in Software Engineering. I build systems and improve scalability and optimization, automate server setups and integrate AI into the system.
+
 :telescope: CS graduate and Open Source Contributor.
 
- :seedling: Exploring Software Engineering.
+:seedling: Exploring Software Engineering.
+ <div id="header" align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></div>
 
   
  💞️ You can follow me on LinkedIn
