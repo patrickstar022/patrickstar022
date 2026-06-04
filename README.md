@@ -1,5 +1,7 @@
 # Parag Deka
+
  <div id="header" align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></div>
+ 
 ## About Me
 I am a CS graduate specialized in Software Engineering. I build systems and improve scalability and optimization, automate server setups and integrate AI into the system.
 
