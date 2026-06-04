@@ -1,7 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Parag+Deka)](https://git.io/typing-svg)
 
- <div id="header" align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></div>
- https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDVxdWpkcmV5cTdzMzV1eHNxNTAzbjVrb241czd2emQ2aXJ1Mm5leiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/quEsMOrr3hmQ8/giphy.gif
+ <div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDVxdWpkcmV5cTdzMzV1eHNxNTAzbjVrb241czd2emQ2aXJ1Mm5leiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/quEsMOrr3hmQ8/giphy.gif" width="100"/>
+ </div>
  
 ## About Me
 I am a CS graduate specialized in Software Engineering. I build systems and improve scalability and optimization, automate server setups and integrate AI into the system.
