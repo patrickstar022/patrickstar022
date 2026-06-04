@@ -1,3 +1,4 @@
+# Parag Deka
 ## About Me
 I am a CS graduate specialized in Software Engineering. I build systems and improve scalability and optimization, automate server setups and integrate AI into the system.
 
