@@ -1,14 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Parag+Deka)](https://git.io/typing-svg)
 
 ## About Me
-I am a CS graduate specialized in Software Engineering. I build systems and improve scalability and optimization, automate server setups and integrate AI into the system.
-I am also an open source contributor.
-
-## Skills
-- MERN Stack
-- AI Tools & Prompt Engineering
-- Cloud Fundamentals
-- Git, Linux, Networking
+I am a CS graduate.
 
   
  💞️ You can follow me on LinkedIn
