@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hi there, I'm [Your Name] 👋</h1>
-  <h3>MCA Student @ C-DAC Noida | Aspiring DevOps & Cloud Engineer</h3>
+  <h1>Hi there, I'm Parag Sen Deka 👋</h1>
+  <h3>MCA Student @ C-DAC Noida | DevOps & Cloud Engineer</h3>
   
   <p>
     Bridging full-stack development with automated infrastructure, containers, and reliable CI/CD workflows.
