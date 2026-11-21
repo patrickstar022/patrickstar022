@@ -8,10 +8,10 @@
 
   <!-- Social Badges -->
   <p>
-    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <a href="https://www.linkedin.com/in/parag-deka-08b24a231" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:your.email@example.com">
+    <a href="mailto:patrickstat022@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
@@ -63,4 +63,6 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=patrickstar022&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickstar022&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
