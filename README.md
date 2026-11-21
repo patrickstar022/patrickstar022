@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Parag Sen Deka 👋</h1>
-  <h3>MCA Student @ C-DAC Noida | DevOps & Cloud Engineer</h3>
+  <h3>DevOps & Cloud Engineer</h3>
   
   <p>
     Bridging full-stack development with automated infrastructure, containers, and reliable CI/CD workflows.
@@ -21,7 +21,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Pursuing **Master of Computer Applications (MCA)** at **C-DAC Noida**.
+- 🎓 Pursuing **Master of Computer Applications (MCA)**.
 - 🌐 Previously built full-stack web applications using the **MERN Stack**, giving me a strong grasp of APIs, databases, and application architecture.
 - ⚙️ Currently focusing on **DevOps**, **Linux**, **Docker**, and **Core Java** to automate builds, containerize workloads, and understand production infrastructure from first principles.
 - 🎯 **Goal:** Actively preparing for entry-level **DevOps / Cloud / Software Engineering** roles.
